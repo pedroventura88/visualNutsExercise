@@ -1,7 +1,7 @@
 # Visual Nuts Exercise - Pedro Ventura
 
 ### Reference Documentation
-For the test case, I've created an simple API, to see the informations within requisitions
+For the test case, I've created an API, using SpringBoot framework and Junit + Mockito for the Unit tests
 
 ### Exercise 1
 - Write or describe an algorithm that prints the whole integer numbers to the console, start
