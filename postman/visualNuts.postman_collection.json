@@ -1,0 +1,145 @@
+{
+	"info": {
+		"_postman_id": "f014c22d-4d0f-47e1-af77-9f755b0db184",
+		"name": "visualNuts",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "exercise1",
+			"item": [
+				{
+					"name": "getNumbers",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/nuts/v1/numbers",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"nuts",
+								"v1",
+								"numbers"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "exercise2",
+			"item": [
+				{
+					"name": "countryWithMostImportantLanguageGerman",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/nuts/v1/countryWithMostImportantLanguageGerman",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"nuts",
+								"v1",
+								"countryWithMostImportantLanguageGerman"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "mostCommonOfficialLanguageOfAllCountries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/nuts/v1/mostCommonOfficialLanguageOfAllCountries",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"nuts",
+								"v1",
+								"mostCommonOfficialLanguageOfAllCountries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "countOfSpokenLanguagesOnListedCountries",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/nuts/v1/countOfSpokenLanguagesOnListedCountries",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"nuts",
+								"v1",
+								"countOfSpokenLanguagesOnListedCountries"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "countriesWithHighestNumberOfSpokenLanguages",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/nuts/v1/countriesWithHighestNumberOfSpokenLanguages",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"nuts",
+								"v1",
+								"countriesWithHighestNumberOfSpokenLanguages"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "numberOfCountriesInTheWorld",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/nuts/v1/numberOfCountriesInTheWorld",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"nuts",
+								"v1",
+								"numberOfCountriesInTheWorld"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
