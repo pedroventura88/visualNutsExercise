@@ -1,5 +1,6 @@
 package com.test.visual.nuts.exercise1;
 
+import com.test.visual.nuts.GenerateData;
 import com.test.visual.nuts.exercise1.impl.PrintNumbersServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

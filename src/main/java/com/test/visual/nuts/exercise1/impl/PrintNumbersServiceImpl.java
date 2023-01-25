@@ -1,8 +1,7 @@
 package com.test.visual.nuts.exercise1.impl;
 
-import com.test.visual.nuts.exercise1.GenerateData;
+import com.test.visual.nuts.GenerateData;
 import com.test.visual.nuts.exercise1.PrintNumbersService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

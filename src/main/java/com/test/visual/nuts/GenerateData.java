@@ -1,7 +1,6 @@
-package com.test.visual.nuts.exercise1;
+package com.test.visual.nuts;
 
 import com.test.visual.nuts.exercise2.Country;
-import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 
 import java.util.Arrays;

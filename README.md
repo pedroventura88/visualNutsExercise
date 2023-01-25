@@ -31,3 +31,6 @@ to find the most common official language(s), of all countries:
 ### Guides
 * The Unit test was developed only for the class PrintNumbersService, considering the lack of time to work on this project
 * Postman collections to facilitate the access to the API, are on folder postman, at the root
+
+### Data used for test
+The Data used for the test cases, are on the class GenerateData.

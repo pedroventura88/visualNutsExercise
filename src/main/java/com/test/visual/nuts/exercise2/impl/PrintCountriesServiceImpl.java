@@ -1,6 +1,6 @@
 package com.test.visual.nuts.exercise2.impl;
 
-import com.test.visual.nuts.exercise1.GenerateData;
+import com.test.visual.nuts.GenerateData;
 import com.test.visual.nuts.exercise2.Country;
 import com.test.visual.nuts.exercise2.PrintCountriesService;
 import org.slf4j.Logger;
